@@ -1,0 +1,31 @@
+{
+  "name": "moment.twitter",
+  "version": "0.0.1",
+  "description": "Twitter-lioke Date Formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SpiderStrategies/moment.twitter.git"
+  },
+  "keywords": [
+    "Twitter",
+    "momentjs",
+    "moment",
+    "date",
+    "date-format"
+  ],
+  "author": "hijonathan",
+  "contibutors": [
+    {
+      "name": "Nathan Bowser",
+      "email": "nathan.bowser@spiderstrategies.com"
+    }
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "moment": "~2.0.0"
+  }
+}
